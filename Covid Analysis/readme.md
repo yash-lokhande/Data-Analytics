@@ -6,10 +6,9 @@
 
 This analysis was made on covid-19 data, which was downloaded from [here](https://ourworldindata.org/covid-deaths).
 
-<br />
-<br />
-* The tools used in the analysis are `Microsoft Excel`, `MySQL`, `Tableau`.
-* The data was analysed in MySQL using aggregate functions, joins, CTE's and later was visualized in `Tableau`.
+* The tools used in the analysis are `Microsoft Excel`,`MySQL`,`Tableau`.
+* The data was analysed in `MySQL` using aggregate functions, joins, CTE's and was later visualised in `Tableau`.
+
 
 
 <br />
@@ -66,3 +65,4 @@ where dea.continent is not null
 group by dea.location, dea.population
 order by 1,2;
 ```
+### The `Tableau` dashboard can be found [here](https://public.tableau.com/app/profile/yash8475/viz/CovidDashboard_16279127165560/Dashboard1).
