@@ -1,8 +1,8 @@
 
-## Analysis of Covid data based on total cases, total deaths and vaccinations
+# Analysis of Covid data based on total cases, total deaths and vaccinations
 
-# Author - Yash Lokhande
-# Date - 02/08/2021
+## Author - Yash Lokhande
+## Date - 02/08/2021
 
 This analysis was made on covid-19 data, which was downloaded from [here](https://ourworldindata.org/covid-deaths).<br />
 The tools used in the analysis are Microsoft Excel, MySQL, Tableau.
