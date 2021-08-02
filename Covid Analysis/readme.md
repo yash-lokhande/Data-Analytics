@@ -6,8 +6,8 @@
 
 This analysis was made on covid-19 data, which was downloaded from [here](https://ourworldindata.org/covid-deaths).
 
-* The tools used in the analysis are `Microsoft Excel`,`MySQL`,`Tableau`.
-* The data was analysed in `MySQL` using aggregate functions, joins, CTE's and was later visualised in `Tableau`.
+* The tools used in the analysis are `Microsoft Excel`,`SQL Server`,`Tableau`.
+* The data was analysed in `SQL Server` using aggregate functions, joins, CTE's and was later visualised in `Tableau`.
 
 
 
