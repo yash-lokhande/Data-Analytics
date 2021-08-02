@@ -10,7 +10,6 @@ This analysis was made on covid-19 data, which was downloaded from [here](https:
 <br />
 * The tools used in the analysis are `Microsoft Excel`, `MySQL`, `Tableau`.
 * The data was analysed in MySQL using aggregate functions, joins, CTE's and later was visualized in `Tableau`.
-* The 
 
 
 <br />
