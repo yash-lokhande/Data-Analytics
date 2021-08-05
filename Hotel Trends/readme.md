@@ -67,6 +67,7 @@ on h.meal = mc.meal;
 ```
 
 Then the data was imported to `Power BI`.
+<br />
 ![](images/2.png)
 <br />
 The Power BI dashboard has been attached to this folder.
