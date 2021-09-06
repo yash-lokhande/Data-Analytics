@@ -13,4 +13,8 @@ The following techniques have been used in creating the dashboard.
 * Creating PivotTable charts and bringing them together to make dashboard.
 * Creating dynamic labels and referencing it to the sheet cells.
 * Adding slicers to the dashboard so as to see the insights for specific part.
-* Addition of sparklines to showing the trends over period of time.
+* Addition of sparklines to show the trends over period of time.
+
+![](images/pic_1.png)
+<br />
+The source file is attached to the folder, it includes data as well.
