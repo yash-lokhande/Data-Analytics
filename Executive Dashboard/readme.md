@@ -16,4 +16,5 @@ The following techniques have been used in creating the dashboard.
 
 ![](pic-2.png)
 <br />
-The source file is attached to the folder.
+### The `Tableau` dashboard can be found [here](https://public.tableau.com/app/profile/yash8475/viz/ExecutiveDashboard_16366308211270/ExecutiveDashboard).
+
