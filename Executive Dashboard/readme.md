@@ -14,6 +14,6 @@ The following techniques have been used in creating the dashboard.
 * Adding filters to the dashboard so as to see the insights for specific part.
 * Addition of dynamic arrows for the KPI purpose.
 
-![](images/pic_1.png)
+![](images/pic-2.png)
 <br />
 The source file is attached to the folder.
